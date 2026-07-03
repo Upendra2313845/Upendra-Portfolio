@@ -3,9 +3,9 @@
 --------------------------------------------- */
 (function () {
   const phrases = [
-    "Full Stack Development",
-    "Data Science",
-    "MERN Stack"
+    "Full Stack Developer",
+    "AI & Machine Learning Enthusiast",
+    "CyberSecurity Researcher"
   ];
 
   const typingSpeed = 80;
@@ -174,3 +174,17 @@ if (track && loop) {
         }
     });
 }
+
+
+
+const form = document.querySelector(".contact-form form");
+
+form.addEventListener("submit", function(e){
+
+    e.preventDefault();
+
+    alert("Thank you! Your message has been received.");
+
+    form.reset();
+
+});
