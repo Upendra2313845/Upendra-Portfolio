@@ -16,7 +16,7 @@ I am a **Computer Science and Engineering undergraduate** passionate about build
 ## Live Portfolio
 
 **Website:**
-[[https://your-portfolio-link.com](https://upendra-portfolio-tau.vercel.app/)](https://upendra-portfolio-tau.vercel.app/)
+https://upendra-portfolio-tau.vercel.app/
 
 ---
 
