@@ -1,9 +1,5 @@
 # Upendra Singh – Portfolio
 
-<p align="center">
-  <img src="./images/home.png" alt="Portfolio Screenshot" width="1000">
-</p>
-
 ## About Me
 
 I am a **Computer Science and Engineering undergraduate** passionate about building scalable software solutions, full-stack web applications, and AI-powered systems. I enjoy solving real-world problems through clean code, continuous learning, and collaborative development.
@@ -148,9 +144,9 @@ Open `index.html` in your preferred web browser.
 
 ## Contact
 
-* **GitHub:** https://github.com/Upendra2313845
-* **LinkedIn:** https://linkedin.com/in/your-linkedin
-* **Email:** [upendra16485@gmail.com](mailto:upendra16485@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Upendra2313845-black?logo=github)](https://github.com/Upendra2313845)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra%20Singh-blue?logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-upendra@example.com-red?logo=gmail)](mailto:upendra@example.com)
 
 ---
 
